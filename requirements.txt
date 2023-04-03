@@ -1,0 +1,5 @@
+numpy
+pandas
+seaborn
+
+-e . # Whenever we try to run/install requirements.txt, setup.py should also run
