@@ -1,5 +1,9 @@
 numpy
 pandas
 seaborn
+matplotlib
+scikit-learn
+catboost
+xgboost
 
--e . # Whenever we try to run/install requirements.txt, setup.py should also run
+#-e . # Whenever we try to run/install requirements.txt, setup.py should also run
